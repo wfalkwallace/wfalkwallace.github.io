@@ -1,15 +1,11 @@
 
-
-/* ==========================================================================
-   Author's custom styles
-   ========================================================================== */
-
-
-
-
-
-
-
+@font-face {
+	font-family: "Socialglyphs";
+	src: url(fonts/socialglyphs-regular.eot?);
+	url(fonts/socialglyphs-regular.woff) format("woff"),
+	url(fonts/socialglyphs-regular.ttf) format("truetype"),
+	url(fonts/socialglyphs-regular.svg) format("svg");
+}
 
 
 
