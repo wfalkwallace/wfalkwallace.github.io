@@ -1,12 +1,27 @@
 
 @font-face {
-	font-family: "Socialglyphs";
-	src: url(fonts/socialglyphs-regular.eot?);
-	url(fonts/socialglyphs-regular.woff) format("woff"),
-	url(fonts/socialglyphs-regular.ttf) format("truetype"),
-	url(fonts/socialglyphs-regular.svg) format("svg");
+  font-family: Socialglyphs;
+  font-family: "Socialglyphs";
+  src: url(../fonts/socialglyphs-regular.svg#socialglyphs-regular) format("svg"),
+    url(../fonts/socialglyphs-regular.ttf) format("truetype"),    
+    url(../fonts/socialglyphs-regular.woff) format("woff"),
+    url(../fonts/socialglyphs-regular.eot);
 }
 
+.social-glyph {
+	position: relative;
+	display: inline-block;
+	font-family: 'Socialglyphs';
+	-webkit-font-smoothing: antialiased;
+	font-style: normal;
+	font-weight: normal;
+	line-height: 1;
+	font-size: 20px;
+}
+
+.social-glyph-github:before {
+	content: "j";
+}
 
 
 
