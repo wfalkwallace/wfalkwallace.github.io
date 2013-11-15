@@ -23,10 +23,10 @@ body { font-family: Georgia; color: #444; }
 #bd, #ft { margin-bottom: 2em; }
 
 #tl { padding: 1em 0 1em 0; font-size: 92%; border-top: 1px solid #ccc; text-align: center; }
-.icon { padding: 1em; height:5em; }
+.icon { padding: 1em; height:5em; color:#000000; text-decoration: none; }
 
-.icon-sm { width: 100%; display: block; padding: .5em; height:2.5em; float:right; }
-.icon-link { text-decoration: none; }
+.icon-sm { width: 100%; display: block; padding: 0 2em; height:2.5em; }
+.icon-link { padding: 0 2em; height:2.5em; }
 
 /* //-- footer -- */
 #ft { padding: 1em 0 5em 0; font-size: 92%; border-top: 1px solid #ccc; text-align: center; }
