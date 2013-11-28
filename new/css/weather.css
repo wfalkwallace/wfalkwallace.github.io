@@ -1,0 +1,12 @@
+body {
+	padding-top: 10px;
+	padding-bottom: 20px;
+}
+
+[class*="icon-"] {
+	font-size: 7em;
+}
+
+.picture, .stats {
+	text-align: center;
+}
