@@ -1,37 +1,1128 @@
-Marco and pepe
-Tacqueria 
-Liquor store jc 
-Rasoi 
-Andrea salumeria 
-Stop and go 
-Lisas 
-Hudson 
-Beer garden 
-
-Woods 
-G force hobbies
-Corner Foodery 
-10th episcopal 
-Pa city hall 
-Wawa veterans Highway 
-
-Neg 
-Xian 
-Saiguette 
-Yasha 
-103rd deli 
-Mexican deli 
-104th deli
-Downtown chipotle 
-mood
-moma
-eataly
-hudson lodge
-ikeas
-
 {
     "type": "FeatureCollection",
     "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.169861,
+                    40.67564,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "IKEA Elizabeth",
+                "styleUrl": "#style1",
+                "styleHash": "-7f4a3672"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.011253,
+                    40.671341,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ikea Brooklyn",
+                "styleUrl": "#style41",
+                "styleHash": "-7f931bfd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.984787,
+                    40.76828,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hudson Lodge",
+                "styleUrl": "#style25",
+                "styleHash": "-49ff1a83"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.989494,
+                    40.741966,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Birreria",
+                "styleUrl": "#style58",
+                "styleHash": "-1e4386e3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98951,
+                    40.742023,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Eataly",
+                "styleUrl": "#style39",
+                "styleHash": "6df29dfa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.977715,
+                    40.761425,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "The Museum of Modern Art",
+                "styleUrl": "#style60",
+                "styleHash": "-bc940da"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.99041,
+                    40.753639,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mood Designer Fabrics",
+                "styleUrl": "#style24",
+                "styleHash": "7d8c469e"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.966782,
+                    40.804485,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chipotle Mexican Grill",
+                "styleUrl": "#style21",
+                "styleHash": "-2bd195ff"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.966499,
+                    40.804451,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Five Guys Burgers and Fries",
+                "styleUrl": "#style54",
+                "styleHash": "-16025f"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.968513,
+                    40.799725,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Jerusalem",
+                "styleUrl": "#style16",
+                "styleHash": "1856475b"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.969429,
+                    40.798367,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sal and Carmine Pizza",
+                "styleUrl": "#style4",
+                "styleHash": "2ac883d6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.969284,
+                    40.7985,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Supercuts",
+                "styleUrl": "#style17",
+                "styleHash": "50cae63a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.969955,
+                    40.797844,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Flor De Mayo",
+                "styleUrl": "#style13",
+                "styleHash": "6ef86abe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.969955,
+                    40.797844,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Flor De Mayo",
+                "styleUrl": "#style66",
+                "styleHash": "46f27860"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.965637,
+                    40.8008,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Yasha Ramen",
+                "styleUrl": "#style2",
+                "styleHash": "-4620b9e8"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.962814,
+                    40.79903,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Saiguette",
+                "styleUrl": "#style46",
+                "styleHash": "-654c01a2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.969337,
+                    40.798447,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Xi'an Famous Foods",
+                "styleUrl": "#style55",
+                "styleHash": "385e9c80"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.01545,
+                    40.715366,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "North End Grill",
+                "styleUrl": "#style14",
+                "styleHash": "-5892f663"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.631386,
+                    39.110626,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Wawa Food Market",
+                "styleUrl": "#style29",
+                "styleHash": "-682c9f07"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.678078,
+                    39.711735,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Miller's Beverage Center",
+                "styleUrl": "#style63",
+                "styleHash": "-626b643d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.164024,
+                    39.952389,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Philadelphia City Hall",
+                "styleUrl": "#style18",
+                "styleHash": "-76c07ae7"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.156807,
+                    39.950825,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "St Stephen's Church",
+                "styleUrl": "#style44",
+                "styleHash": "29cac0a0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.157158,
+                    39.950127,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Starbucks",
+                "styleUrl": "#style64",
+                "styleHash": "-29f6c55e"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.169365,
+                    39.950615,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "The Corner Foodery",
+                "styleUrl": "#style70",
+                "styleHash": "-35aa03d9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.675438,
+                    39.712055,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "GForce Hobbies Inc",
+                "styleUrl": "#style52",
+                "styleHash": "-70ff401d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.637878,
+                    39.10144,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Severn Run",
+                "styleUrl": "#style23",
+                "styleHash": "4517a7bf",
+                "description": "Hanover, MD<br>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.635773,
+                    39.107285,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Parking",
+                "styleUrl": "#style11",
+                "styleHash": "-1f0d300"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.031349,
+                    40.755287,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Pilsener Haus & Biergarten",
+                "styleUrl": "#style30",
+                "styleHash": "71d90823"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.045135,
+                    40.744328,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Five Star Liquors & Deli",
+                "styleUrl": "#style61",
+                "styleHash": "2cab5e05"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.031578,
+                    40.744137,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "The Hudson School",
+                "styleUrl": "#style49",
+                "styleHash": "4411dafb"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.030411,
+                    40.747814,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lisa's",
+                "styleUrl": "#style68",
+                "styleHash": "-482449e2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.051216,
+                    40.742756,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Stop & Shop Supermarket",
+                "styleUrl": "#style7",
+                "styleHash": "-2bd99f8d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.051247,
+                    40.743492,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Andrea Salumeria",
+                "styleUrl": "#style9",
+                "styleHash": "450f9e31"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.065384,
+                    40.735725,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Rasoi",
+                "styleUrl": "#style26",
+                "styleHash": "73281f1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.044632,
+                    40.716244,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Taqueria Downtown",
+                "styleUrl": "#style37",
+                "styleHash": "54de5d1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.043922,
+                    40.718327,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Marco & Pepe",
+                "styleUrl": "#style33",
+                "styleHash": "258a7955"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.049629,
+                    40.746819,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lincoln Inn",
+                "styleUrl": "#style51",
+                "styleHash": "568c2104"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.046959,
+                    40.739956,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Palisade Ave & Ferry St",
+                "styleUrl": "#style56",
+                "styleHash": "70d33b5f",
+                "description": "Palisade Ave &amp; Ferry St<br>Jersey City, NJ 07307<br><img src=\"https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=40.739957,-74.046961&amp;thumb=0\">"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.046844,
+                    40.739948,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Trolley Car",
+                "styleUrl": "#style31",
+                "styleHash": "-55b258fe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.969765,
+                    40.79517,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Café Frida",
+                "styleUrl": "#style10",
+                "styleHash": "-3a6571df"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.960831,
+                    40.818127,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Dinosaur Bar-B-Que",
+                "styleUrl": "#style5",
+                "styleHash": "633d22b5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.981911,
+                    40.775276,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "AMC Lincoln Square 13",
+                "styleUrl": "#style47",
+                "styleHash": "-2cd762c3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.977615,
+                    40.786732,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "AMC Loews 84th Street 6",
+                "styleUrl": "#style67",
+                "styleHash": "7f67173f"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.981865,
+                    40.770836,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lincoln Plaza Cinemas",
+                "styleUrl": "#style59",
+                "styleHash": "1a3117fc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.420387,
+                    37.777687,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "San Francisco Symphony",
+                "styleUrl": "#style32",
+                "styleHash": "-1d3dba1f"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.994392,
+                    40.75251,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "AMC 34Th Street 14",
+                "styleUrl": "#style45",
+                "styleHash": "623f5f7f"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.99678,
+                    40.753021,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "McGarry's",
+                "styleUrl": "#style57",
+                "styleHash": "-56b825c2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.005829,
+                    40.749355,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Gagosian Gallery",
+                "styleUrl": "#style34",
+                "styleHash": "53ab839f"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.006439,
+                    40.746872,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Gagosian Gallery",
+                "styleUrl": "#style42",
+                "styleHash": "-471e7d1e"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.976494,
+                    40.754059,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Café Centro",
+                "styleUrl": "#style27",
+                "styleHash": "26ea233b"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.96283,
+                    41.394852,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "SCUSA Pick-up",
+                "styleUrl": "#style50",
+                "styleHash": "1e178225"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.967712,
+                    40.800522,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Silver Moon Bakery",
+                "styleUrl": "#style65",
+                "styleHash": "e7dd981"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.965569,
+                    40.806095,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "NUSSBAUM & WU BAGEL BAKERY CAFE",
+                "styleUrl": "#style15",
+                "styleHash": "-201e5784"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.938477,
+                    40.851089,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Starbucks Coffee",
+                "styleUrl": "#style12",
+                "styleHash": "3683cbdf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.002602,
+                    40.71973,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Pearl Paint",
+                "styleUrl": "#style22",
+                "styleHash": "ca308e0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.994949,
+                    40.695011,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Connecticut Muffin",
+                "styleUrl": "#style48",
+                "styleHash": "b9d3c1c"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.983116,
+                    40.771194,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Rosa Mexicano",
+                "styleUrl": "#style36",
+                "styleHash": "-3b6b3ea3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.967415,
+                    40.793301,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Birch Coffee",
+                "styleUrl": "#style3",
+                "styleHash": "-dac1b09"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95739,
+                    40.721893,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Brooklyn Bowl",
+                "styleUrl": "#style8",
+                "styleHash": "c9aff52"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.990181,
+                    40.693703,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Borough Hall Farmers Market",
+                "styleUrl": "#style40",
+                "styleHash": "47f84524"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.990219,
+                    40.69302,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Breakfast",
+                "styleUrl": "#style28",
+                "styleHash": "5f5ec21a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.993759,
+                    40.694759,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Custom House",
+                "styleUrl": "#style62",
+                "styleHash": "651ffce4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.996002,
+                    40.695145,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Heights Cafe",
+                "styleUrl": "#style19",
+                "styleHash": "-3e4bdc08"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.963875,
+                    40.803226,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "1020 Bar",
+                "styleUrl": "#style53",
+                "styleHash": "-388aa13e"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.964676,
+                    40.802139,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Village Pourhouse",
+                "styleUrl": "#style35",
+                "styleHash": "-73dfdd82"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.006386,
+                    40.73418,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "RedFarm",
+                "styleUrl": "#style43",
+                "styleHash": "-ea9de3f"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.016029,
+                    40.674862,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hometown Bar-B-Que",
+                "styleUrl": "#style6",
+                "styleHash": "-644e3e6c"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.965279,
+                    40.805702,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Milano Market",
+                "styleUrl": "#style38",
+                "styleHash": "357dff1b"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.965202,
+                    40.805805,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Deluxe",
+                "styleUrl": "#style69",
+                "styleHash": "-fafab03"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.965263,
+                    40.805614,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Dos Amigos",
+                "styleUrl": "#style20",
+                "styleHash": "-644634de"
+            }
+        },
         {
             "type": "Feature",
             "geometry": {
