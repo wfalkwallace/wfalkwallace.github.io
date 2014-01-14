@@ -18,7 +18,7 @@
                 ]
             },
             "properties": {
-                "name": "IKEA Elizabeth",
+                "name": "IKEA Elizabeth"
              }
         },
         {
@@ -32,8 +32,8 @@
                 ]
             },
             "properties": {
-                "name": "Ikea Brooklyn",
-             }
+                "name": "Ikea Brooklyn"
+            }
         },
         {
             "type": "Feature",
@@ -46,8 +46,8 @@
                 ]
             },
             "properties": {
-                "name": "Hudson Lodge",
-             }
+                "name": "Hudson Lodge"
+            }
         },
         {
             "type": "Feature",
@@ -60,8 +60,8 @@
                 ]
             },
             "properties": {
-                "name": "Birreria",
-             }
+                "name": "Birreria"
+            }
         },
         {
             "type": "Feature",
@@ -74,8 +74,8 @@
                 ]
             },
             "properties": {
-                "name": "Eataly",
-             }
+                "name": "Eataly"
+            }
         },
         {
             "type": "Feature",
@@ -88,8 +88,8 @@
                 ]
             },
             "properties": {
-                "name": "The Museum of Modern Art",
-             }
+                "name": "The Museum of Modern Art"
+            }
         },
         {
             "type": "Feature",
@@ -102,8 +102,8 @@
                 ]
             },
             "properties": {
-                "name": "Mood Designer Fabrics",
-             }
+                "name": "Mood Designer Fabrics"
+            }
         },
         {
             "type": "Feature",
@@ -116,8 +116,8 @@
                 ]
             },
             "properties": {
-                "name": "Chipotle Mexican Grill",
-             }
+                "name": "Chipotle Mexican Grill"
+            }
         },
         {
             "type": "Feature",
@@ -130,8 +130,8 @@
                 ]
             },
             "properties": {
-                "name": "Five Guys Burgers and Fries",
-             }
+                "name": "Five Guys Burgers and Fries"
+            }
         },
         {
             "type": "Feature",
@@ -144,8 +144,8 @@
                 ]
             },
             "properties": {
-                "name": "Jerusalem",
-             }
+                "name": "Jerusalem"
+            }
         },
         {
             "type": "Feature",
@@ -158,8 +158,8 @@
                 ]
             },
             "properties": {
-                "name": "Sal and Carmine Pizza",
-             }
+                "name": "Sal and Carmine Pizza"
+            }
         },
         {
             "type": "Feature",
@@ -172,8 +172,8 @@
                 ]
             },
             "properties": {
-                "name": "Supercuts",
-             }
+                "name": "Supercuts"
+            }
         },
         {
             "type": "Feature",
@@ -186,8 +186,8 @@
                 ]
             },
             "properties": {
-                "name": "Flor De Mayo",
-             }
+                "name": "Flor De Mayo"
+            }
         },
         {
             "type": "Feature",
@@ -200,8 +200,8 @@
                 ]
             },
             "properties": {
-                "name": "Flor De Mayo",
-             }
+                "name": "Flor De Mayo"
+            }
         },
         {
             "type": "Feature",
@@ -214,8 +214,8 @@
                 ]
             },
             "properties": {
-                "name": "Yasha Ramen",
-             }
+                "name": "Yasha Ramen"
+            }
         },
         {
             "type": "Feature",
@@ -228,8 +228,8 @@
                 ]
             },
             "properties": {
-                "name": "Saiguette",
-             }
+                "name": "Saiguette"
+            }
         },
         {
             "type": "Feature",
@@ -242,8 +242,8 @@
                 ]
             },
             "properties": {
-                "name": "Xi'an Famous Foods",
-             }
+                "name": "Xi'an Famous Foods"
+            }
         },
         {
             "type": "Feature",
@@ -256,8 +256,8 @@
                 ]
             },
             "properties": {
-                "name": "North End Grill",
-             }
+                "name": "North End Grill"
+            }
         },
         {
             "type": "Feature",
@@ -270,8 +270,8 @@
                 ]
             },
             "properties": {
-                "name": "Wawa Food Market",
-             }
+                "name": "Wawa Food Market"
+            }
         },
         {
             "type": "Feature",
@@ -284,8 +284,8 @@
                 ]
             },
             "properties": {
-                "name": "Miller's Beverage Center",
-             }
+                "name": "Miller's Beverage Center"
+            }
         },
         {
             "type": "Feature",
@@ -298,8 +298,8 @@
                 ]
             },
             "properties": {
-                "name": "Philadelphia City Hall",
-             }
+                "name": "Philadelphia City Hall"
+            }
         },
         {
             "type": "Feature",
@@ -312,8 +312,8 @@
                 ]
             },
             "properties": {
-                "name": "St Stephen's Church",
-             }
+                "name": "St Stephen's Church"
+            }
         },
         {
             "type": "Feature",
@@ -326,8 +326,8 @@
                 ]
             },
             "properties": {
-                "name": "Starbucks",
-             }
+                "name": "Starbucks"
+            }
         },
         {
             "type": "Feature",
@@ -340,8 +340,8 @@
                 ]
             },
             "properties": {
-                "name": "The Corner Foodery",
-             }
+                "name": "The Corner Foodery"
+            }
         },
         {
             "type": "Feature",
@@ -354,8 +354,8 @@
                 ]
             },
             "properties": {
-                "name": "GForce Hobbies Inc",
-             }
+                "name": "GForce Hobbies Inc"
+            }
         },
         {
             "type": "Feature",
@@ -383,8 +383,8 @@
                 ]
             },
             "properties": {
-                "name": "Parking",
-             }
+                "name": "Parking"
+            }
         },
         {
             "type": "Feature",
@@ -397,8 +397,8 @@
                 ]
             },
             "properties": {
-                "name": "Pilsener Haus & Biergarten",
-             }
+                "name": "Pilsener Haus & Biergarten"
+            }
         },
         {
             "type": "Feature",
@@ -411,8 +411,8 @@
                 ]
             },
             "properties": {
-                "name": "Five Star Liquors & Deli",
-             }
+                "name": "Five Star Liquors & Deli"
+            }
         },
         {
             "type": "Feature",
@@ -425,8 +425,8 @@
                 ]
             },
             "properties": {
-                "name": "The Hudson School",
-             }
+                "name": "The Hudson School"
+            }
         },
         {
             "type": "Feature",
@@ -439,8 +439,8 @@
                 ]
             },
             "properties": {
-                "name": "Lisa's",
-             }
+                "name": "Lisa's"
+            }
         },
         {
             "type": "Feature",
@@ -453,8 +453,8 @@
                 ]
             },
             "properties": {
-                "name": "Stop & Shop Supermarket",
-             }
+                "name": "Stop & Shop Supermarket"
+            }
         },
         {
             "type": "Feature",
@@ -467,8 +467,8 @@
                 ]
             },
             "properties": {
-                "name": "Andrea Salumeria",
-             }
+                "name": "Andrea Salumeria"
+            }
         },
         {
             "type": "Feature",
@@ -481,8 +481,8 @@
                 ]
             },
             "properties": {
-                "name": "Rasoi",
-             }
+                "name": "Rasoi"
+            }
         },
         {
             "type": "Feature",
@@ -495,8 +495,8 @@
                 ]
             },
             "properties": {
-                "name": "Taqueria Downtown",
-             }
+                "name": "Taqueria Downtown"
+            }
         },
         {
             "type": "Feature",
@@ -509,8 +509,8 @@
                 ]
             },
             "properties": {
-                "name": "Marco & Pepe",
-             }
+                "name": "Marco & Pepe"
+            }
         },
         {
             "type": "Feature",
@@ -523,8 +523,8 @@
                 ]
             },
             "properties": {
-                "name": "Lincoln Inn",
-             }
+                "name": "Lincoln Inn"
+            }
         },
         {
             "type": "Feature",
@@ -552,8 +552,8 @@
                 ]
             },
             "properties": {
-                "name": "Trolley Car",
-             }
+                "name": "Trolley Car"
+            }
         },
         {
             "type": "Feature",
@@ -566,8 +566,8 @@
                 ]
             },
             "properties": {
-                "name": "Café Frida",
-             }
+                "name": "Café Frida"
+            }
         },
         {
             "type": "Feature",
@@ -580,8 +580,8 @@
                 ]
             },
             "properties": {
-                "name": "Dinosaur Bar-B-Que",
-             }
+                "name": "Dinosaur Bar-B-Que"
+            }
         },
         {
             "type": "Feature",
@@ -594,8 +594,8 @@
                 ]
             },
             "properties": {
-                "name": "AMC Lincoln Square 13",
-             }
+                "name": "AMC Lincoln Square 13"
+            }
         },
         {
             "type": "Feature",
@@ -608,8 +608,8 @@
                 ]
             },
             "properties": {
-                "name": "AMC Loews 84th Street 6",
-             }
+                "name": "AMC Loews 84th Street 6"
+            }
         },
         {
             "type": "Feature",
@@ -622,8 +622,8 @@
                 ]
             },
             "properties": {
-                "name": "Lincoln Plaza Cinemas",
-             }
+                "name": "Lincoln Plaza Cinemas"
+            }
         },
         {
             "type": "Feature",
@@ -636,8 +636,8 @@
                 ]
             },
             "properties": {
-                "name": "San Francisco Symphony",
-             }
+                "name": "San Francisco Symphony"
+            }
         },
         {
             "type": "Feature",
@@ -650,8 +650,8 @@
                 ]
             },
             "properties": {
-                "name": "AMC 34Th Street 14",
-             }
+                "name": "AMC 34Th Street 14"
+            }
         },
         {
             "type": "Feature",
@@ -664,8 +664,8 @@
                 ]
             },
             "properties": {
-                "name": "McGarry's",
-             }
+                "name": "McGarry's"
+            }
         },
         {
             "type": "Feature",
@@ -678,8 +678,8 @@
                 ]
             },
             "properties": {
-                "name": "Gagosian Gallery",
-             }
+                "name": "Gagosian Gallery"
+            }
         },
         {
             "type": "Feature",
@@ -692,8 +692,8 @@
                 ]
             },
             "properties": {
-                "name": "Gagosian Gallery",
-             }
+                "name": "Gagosian Gallery"
+            }
         },
         {
             "type": "Feature",
@@ -706,8 +706,8 @@
                 ]
             },
             "properties": {
-                "name": "Café Centro",
-             }
+                "name": "Café Centro"
+            }
         },
         {
             "type": "Feature",
@@ -720,8 +720,8 @@
                 ]
             },
             "properties": {
-                "name": "SCUSA Pick-up",
-             }
+                "name": "SCUSA Pick-up"
+            }
         },
         {
             "type": "Feature",
@@ -734,8 +734,8 @@
                 ]
             },
             "properties": {
-                "name": "Silver Moon Bakery",
-             }
+                "name": "Silver Moon Bakery"
+            }
         },
         {
             "type": "Feature",
@@ -748,8 +748,8 @@
                 ]
             },
             "properties": {
-                "name": "NUSSBAUM & WU BAGEL BAKERY CAFE",
-             }
+                "name": "NUSSBAUM & WU BAGEL BAKERY CAFE"
+            }
         },
         {
             "type": "Feature",
@@ -762,8 +762,8 @@
                 ]
             },
             "properties": {
-                "name": "Starbucks Coffee",
-             }
+                "name": "Starbucks Coffee"
+            }
         },
         {
             "type": "Feature",
@@ -776,8 +776,8 @@
                 ]
             },
             "properties": {
-                "name": "Pearl Paint",
-             }
+                "name": "Pearl Paint"
+            }
         },
         {
             "type": "Feature",
@@ -790,8 +790,8 @@
                 ]
             },
             "properties": {
-                "name": "Connecticut Muffin",
-             }
+                "name": "Connecticut Muffin"
+            }
         },
         {
             "type": "Feature",
@@ -804,8 +804,8 @@
                 ]
             },
             "properties": {
-                "name": "Rosa Mexicano",
-             }
+                "name": "Rosa Mexicano"
+            }
         },
         {
             "type": "Feature",
@@ -818,8 +818,8 @@
                 ]
             },
             "properties": {
-                "name": "Birch Coffee",
-             }
+                "name": "Birch Coffee"
+            }
         },
         {
             "type": "Feature",
@@ -832,8 +832,8 @@
                 ]
             },
             "properties": {
-                "name": "Brooklyn Bowl",
-             }
+                "name": "Brooklyn Bowl"
+            }
         },
         {
             "type": "Feature",
@@ -846,8 +846,8 @@
                 ]
             },
             "properties": {
-                "name": "Borough Hall Farmers Market",
-             }
+                "name": "Borough Hall Farmers Market"
+            }
         },
         {
             "type": "Feature",
@@ -860,8 +860,8 @@
                 ]
             },
             "properties": {
-                "name": "Breakfast",
-             }
+                "name": "Breakfast"
+            }
         },
         {
             "type": "Feature",
@@ -874,8 +874,8 @@
                 ]
             },
             "properties": {
-                "name": "Custom House",
-             }
+                "name": "Custom House"
+            }
         },
         {
             "type": "Feature",
@@ -888,8 +888,8 @@
                 ]
             },
             "properties": {
-                "name": "Heights Cafe",
-             }
+                "name": "Heights Cafe"
+            }
         },
         {
             "type": "Feature",
@@ -902,8 +902,8 @@
                 ]
             },
             "properties": {
-                "name": "1020 Bar",
-             }
+                "name": "1020 Bar"
+            }
         },
         {
             "type": "Feature",
@@ -916,8 +916,8 @@
                 ]
             },
             "properties": {
-                "name": "Village Pourhouse",
-             }
+                "name": "Village Pourhouse"
+            }
         },
         {
             "type": "Feature",
@@ -930,8 +930,8 @@
                 ]
             },
             "properties": {
-                "name": "RedFarm",
-             }
+                "name": "RedFarm"
+            }
         },
         {
             "type": "Feature",
@@ -944,8 +944,8 @@
                 ]
             },
             "properties": {
-                "name": "Hometown Bar-B-Que",
-             }
+                "name": "Hometown Bar-B-Que"
+            }
         },
         {
             "type": "Feature",
@@ -958,8 +958,8 @@
                 ]
             },
             "properties": {
-                "name": "Milano Market",
-             }
+                "name": "Milano Market"
+            }
         },
         {
             "type": "Feature",
@@ -972,8 +972,8 @@
                 ]
             },
             "properties": {
-                "name": "Deluxe",
-             }
+                "name": "Deluxe"
+            }
         },
         {
             "type": "Feature",
@@ -986,8 +986,8 @@
                 ]
             },
             "properties": {
-                "name": "Dos Amigos",
-             }
+                "name": "Dos Amigos"
+            }
         },
         {
             "type": "Feature",
@@ -3252,8 +3252,8 @@
                 ]
             },
             "properties": {
-                "name": "To: Bunker Rd",
-             }
+                "name": "To: Bunker Rd"
+            }
         },
         {
             "type": "Feature",
@@ -3266,8 +3266,8 @@
                 ]
             },
             "properties": {
-                "name": "From: McCullough Rd",
-             }
+                "name": "From: McCullough Rd"
+            }
         },
         {
             "type": "Feature",
@@ -3737,8 +3737,8 @@
                 ]
             },
             "properties": {
-                "name": "To: Conzelman Rd",
-             }
+                "name": "To: Conzelman Rd"
+            }
         },
         {
             "type": "Feature",
@@ -5498,8 +5498,8 @@
                 ]
             },
             "properties": {
-                "name": "To: Bunker Rd",
-             }
+                "name": "To: Bunker Rd"
+            }
         },
         {
             "type": "Feature",
@@ -5572,8 +5572,8 @@
                 ]
             },
             "properties": {
-                "name": "Birch Coffee",
-             }
+                "name": "Birch Coffee"
+            }
         },
         {
             "type": "Feature",
@@ -5586,8 +5586,8 @@
                 ]
             },
             "properties": {
-                "name": "Connecticut Muffin",
-             }
+                "name": "Connecticut Muffin"
+            }
         },
         {
             "type": "Feature",
@@ -5630,8 +5630,8 @@
                 ]
             },
             "properties": {
-                "name": "Deluxe",
-             }
+                "name": "Deluxe"
+            }
         },
         {
             "type": "Feature",
@@ -5644,8 +5644,8 @@
                 ]
             },
             "properties": {
-                "name": "The Bell House",
-             }
+                "name": "The Bell House"
+            }
         },
         {
             "type": "Feature",
@@ -5673,8 +5673,8 @@
                 ]
             },
             "properties": {
-                "name": "BLT Burger",
-             }
+                "name": "BLT Burger"
+            }
         },
         {
             "type": "Feature",
@@ -5687,8 +5687,8 @@
                 ]
             },
             "properties": {
-                "name": "Bourbon Coffee",
-             }
+                "name": "Bourbon Coffee"
+            }
         },
         {
             "type": "Feature",
@@ -5701,8 +5701,8 @@
                 ]
             },
             "properties": {
-                "name": "BLT Burger",
-             }
+                "name": "BLT Burger"
+            }
         },
         {
             "type": "Feature",
@@ -5715,8 +5715,8 @@
                 ]
             },
             "properties": {
-                "name": "Bourbon Coffee",
-             }
+                "name": "Bourbon Coffee"
+            }
         },
         {
             "type": "Feature",
@@ -5729,8 +5729,8 @@
                 ]
             },
             "properties": {
-                "name": "Birreria",
-             }
+                "name": "Birreria"
+            }
         },
         {
             "type": "Feature",
@@ -5758,8 +5758,8 @@
                 ]
             },
             "properties": {
-                "name": "Yasha Ramen",
-             }
+                "name": "Yasha Ramen"
+            }
         },
         {
             "type": "Feature",
@@ -5772,8 +5772,8 @@
                 ]
             },
             "properties": {
-                "name": "Mexican Deli Inc.",
-             }
+                "name": "Mexican Deli Inc."
+            }
         },
         {
             "type": "Feature",
@@ -5786,8 +5786,8 @@
                 ]
             },
             "properties": {
-                "name": "Chipotle Mexican Grill",
-             }
+                "name": "Chipotle Mexican Grill"
+            }
         },
         {
             "type": "Feature",
@@ -5800,8 +5800,8 @@
                 ]
             },
             "properties": {
-                "name": "Birch Coffee",
-             }
+                "name": "Birch Coffee"
+            }
         },
         {
             "type": "Feature",
@@ -5814,8 +5814,8 @@
                 ]
             },
             "properties": {
-                "name": "Brooklyn Bowl",
-             }
+                "name": "Brooklyn Bowl"
+            }
         },
         {
             "type": "Feature",
@@ -5828,8 +5828,8 @@
                 ]
             },
             "properties": {
-                "name": "Rosa Mexicano",
-             }
+                "name": "Rosa Mexicano"
+            }
         },
         {
             "type": "Feature",
@@ -5842,8 +5842,8 @@
                 ]
             },
             "properties": {
-                "name": "Pearl Paint",
-             }
+                "name": "Pearl Paint"
+            }
         },
         {
             "type": "Feature",
@@ -5856,8 +5856,8 @@
                 ]
             },
             "properties": {
-                "name": "Hometown Bar-B-Que",
-             }
+                "name": "Hometown Bar-B-Que"
+            }
         },
         {
             "type": "Feature",
@@ -5870,8 +5870,8 @@
                 ]
             },
             "properties": {
-                "name": "Heights Cafe",
-             }
+                "name": "Heights Cafe"
+            }
         }
     ]
 }
