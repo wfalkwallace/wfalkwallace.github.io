@@ -5,6 +5,7 @@ apps/games?/projects/resume
 
 
 **S+W Map:**
+
 - [ ] central ave pet store
 - [ ] 103rd deli 
 - [ ] 104th deli
