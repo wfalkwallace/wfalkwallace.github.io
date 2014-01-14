@@ -13,9 +13,7 @@
             },
             "properties": {
                 "name": "IKEA Elizabeth",
-                "styleUrl": "#style1",
-                "styleHash": "-7f4a3672"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -29,9 +27,7 @@
             },
             "properties": {
                 "name": "Ikea Brooklyn",
-                "styleUrl": "#style41",
-                "styleHash": "-7f931bfd"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -45,9 +41,7 @@
             },
             "properties": {
                 "name": "Hudson Lodge",
-                "styleUrl": "#style25",
-                "styleHash": "-49ff1a83"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -61,9 +55,7 @@
             },
             "properties": {
                 "name": "Birreria",
-                "styleUrl": "#style58",
-                "styleHash": "-1e4386e3"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -77,9 +69,7 @@
             },
             "properties": {
                 "name": "Eataly",
-                "styleUrl": "#style39",
-                "styleHash": "6df29dfa"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -93,9 +83,7 @@
             },
             "properties": {
                 "name": "The Museum of Modern Art",
-                "styleUrl": "#style60",
-                "styleHash": "-bc940da"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -109,9 +97,7 @@
             },
             "properties": {
                 "name": "Mood Designer Fabrics",
-                "styleUrl": "#style24",
-                "styleHash": "7d8c469e"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -125,9 +111,7 @@
             },
             "properties": {
                 "name": "Chipotle Mexican Grill",
-                "styleUrl": "#style21",
-                "styleHash": "-2bd195ff"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -141,9 +125,7 @@
             },
             "properties": {
                 "name": "Five Guys Burgers and Fries",
-                "styleUrl": "#style54",
-                "styleHash": "-16025f"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -157,9 +139,7 @@
             },
             "properties": {
                 "name": "Jerusalem",
-                "styleUrl": "#style16",
-                "styleHash": "1856475b"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -173,9 +153,7 @@
             },
             "properties": {
                 "name": "Sal and Carmine Pizza",
-                "styleUrl": "#style4",
-                "styleHash": "2ac883d6"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -189,9 +167,7 @@
             },
             "properties": {
                 "name": "Supercuts",
-                "styleUrl": "#style17",
-                "styleHash": "50cae63a"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -205,9 +181,7 @@
             },
             "properties": {
                 "name": "Flor De Mayo",
-                "styleUrl": "#style13",
-                "styleHash": "6ef86abe"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -221,9 +195,7 @@
             },
             "properties": {
                 "name": "Flor De Mayo",
-                "styleUrl": "#style66",
-                "styleHash": "46f27860"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -237,9 +209,7 @@
             },
             "properties": {
                 "name": "Yasha Ramen",
-                "styleUrl": "#style2",
-                "styleHash": "-4620b9e8"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -253,9 +223,7 @@
             },
             "properties": {
                 "name": "Saiguette",
-                "styleUrl": "#style46",
-                "styleHash": "-654c01a2"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -269,9 +237,7 @@
             },
             "properties": {
                 "name": "Xi'an Famous Foods",
-                "styleUrl": "#style55",
-                "styleHash": "385e9c80"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -285,9 +251,7 @@
             },
             "properties": {
                 "name": "North End Grill",
-                "styleUrl": "#style14",
-                "styleHash": "-5892f663"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -301,9 +265,7 @@
             },
             "properties": {
                 "name": "Wawa Food Market",
-                "styleUrl": "#style29",
-                "styleHash": "-682c9f07"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -317,9 +279,7 @@
             },
             "properties": {
                 "name": "Miller's Beverage Center",
-                "styleUrl": "#style63",
-                "styleHash": "-626b643d"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -333,9 +293,7 @@
             },
             "properties": {
                 "name": "Philadelphia City Hall",
-                "styleUrl": "#style18",
-                "styleHash": "-76c07ae7"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -349,9 +307,7 @@
             },
             "properties": {
                 "name": "St Stephen's Church",
-                "styleUrl": "#style44",
-                "styleHash": "29cac0a0"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -365,9 +321,7 @@
             },
             "properties": {
                 "name": "Starbucks",
-                "styleUrl": "#style64",
-                "styleHash": "-29f6c55e"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -381,9 +335,7 @@
             },
             "properties": {
                 "name": "The Corner Foodery",
-                "styleUrl": "#style70",
-                "styleHash": "-35aa03d9"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -397,9 +349,7 @@
             },
             "properties": {
                 "name": "GForce Hobbies Inc",
-                "styleUrl": "#style52",
-                "styleHash": "-70ff401d"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -413,9 +363,7 @@
             },
             "properties": {
                 "name": "Severn Run",
-                "styleUrl": "#style23",
-                "styleHash": "4517a7bf",
-                "description": "Hanover, MD<br>"
+                 "description": "Hanover, MD<br>"
             }
         },
         {
@@ -430,9 +378,7 @@
             },
             "properties": {
                 "name": "Parking",
-                "styleUrl": "#style11",
-                "styleHash": "-1f0d300"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -446,9 +392,7 @@
             },
             "properties": {
                 "name": "Pilsener Haus & Biergarten",
-                "styleUrl": "#style30",
-                "styleHash": "71d90823"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -462,9 +406,7 @@
             },
             "properties": {
                 "name": "Five Star Liquors & Deli",
-                "styleUrl": "#style61",
-                "styleHash": "2cab5e05"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -478,9 +420,7 @@
             },
             "properties": {
                 "name": "The Hudson School",
-                "styleUrl": "#style49",
-                "styleHash": "4411dafb"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -494,9 +434,7 @@
             },
             "properties": {
                 "name": "Lisa's",
-                "styleUrl": "#style68",
-                "styleHash": "-482449e2"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -510,9 +448,7 @@
             },
             "properties": {
                 "name": "Stop & Shop Supermarket",
-                "styleUrl": "#style7",
-                "styleHash": "-2bd99f8d"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -526,9 +462,7 @@
             },
             "properties": {
                 "name": "Andrea Salumeria",
-                "styleUrl": "#style9",
-                "styleHash": "450f9e31"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -542,9 +476,7 @@
             },
             "properties": {
                 "name": "Rasoi",
-                "styleUrl": "#style26",
-                "styleHash": "73281f1"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -558,9 +490,7 @@
             },
             "properties": {
                 "name": "Taqueria Downtown",
-                "styleUrl": "#style37",
-                "styleHash": "54de5d1"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -574,9 +504,7 @@
             },
             "properties": {
                 "name": "Marco & Pepe",
-                "styleUrl": "#style33",
-                "styleHash": "258a7955"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -590,9 +518,7 @@
             },
             "properties": {
                 "name": "Lincoln Inn",
-                "styleUrl": "#style51",
-                "styleHash": "568c2104"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -606,9 +532,7 @@
             },
             "properties": {
                 "name": "Palisade Ave & Ferry St",
-                "styleUrl": "#style56",
-                "styleHash": "70d33b5f",
-                "description": "Palisade Ave &amp; Ferry St<br>Jersey City, NJ 07307<br><img src=\"https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=40.739957,-74.046961&amp;thumb=0\">"
+                 "description": "Palisade Ave &amp; Ferry St<br>Jersey City, NJ 07307<br><img src=\"https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=40.739957,-74.046961&amp;thumb=0\">"
             }
         },
         {
@@ -623,9 +547,7 @@
             },
             "properties": {
                 "name": "Trolley Car",
-                "styleUrl": "#style31",
-                "styleHash": "-55b258fe"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -639,9 +561,7 @@
             },
             "properties": {
                 "name": "Café Frida",
-                "styleUrl": "#style10",
-                "styleHash": "-3a6571df"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -655,9 +575,7 @@
             },
             "properties": {
                 "name": "Dinosaur Bar-B-Que",
-                "styleUrl": "#style5",
-                "styleHash": "633d22b5"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -671,9 +589,7 @@
             },
             "properties": {
                 "name": "AMC Lincoln Square 13",
-                "styleUrl": "#style47",
-                "styleHash": "-2cd762c3"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -687,9 +603,7 @@
             },
             "properties": {
                 "name": "AMC Loews 84th Street 6",
-                "styleUrl": "#style67",
-                "styleHash": "7f67173f"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -703,9 +617,7 @@
             },
             "properties": {
                 "name": "Lincoln Plaza Cinemas",
-                "styleUrl": "#style59",
-                "styleHash": "1a3117fc"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -719,9 +631,7 @@
             },
             "properties": {
                 "name": "San Francisco Symphony",
-                "styleUrl": "#style32",
-                "styleHash": "-1d3dba1f"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -735,9 +645,7 @@
             },
             "properties": {
                 "name": "AMC 34Th Street 14",
-                "styleUrl": "#style45",
-                "styleHash": "623f5f7f"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -751,9 +659,7 @@
             },
             "properties": {
                 "name": "McGarry's",
-                "styleUrl": "#style57",
-                "styleHash": "-56b825c2"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -767,9 +673,7 @@
             },
             "properties": {
                 "name": "Gagosian Gallery",
-                "styleUrl": "#style34",
-                "styleHash": "53ab839f"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -783,9 +687,7 @@
             },
             "properties": {
                 "name": "Gagosian Gallery",
-                "styleUrl": "#style42",
-                "styleHash": "-471e7d1e"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -799,9 +701,7 @@
             },
             "properties": {
                 "name": "Café Centro",
-                "styleUrl": "#style27",
-                "styleHash": "26ea233b"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -815,9 +715,7 @@
             },
             "properties": {
                 "name": "SCUSA Pick-up",
-                "styleUrl": "#style50",
-                "styleHash": "1e178225"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -831,9 +729,7 @@
             },
             "properties": {
                 "name": "Silver Moon Bakery",
-                "styleUrl": "#style65",
-                "styleHash": "e7dd981"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -847,9 +743,7 @@
             },
             "properties": {
                 "name": "NUSSBAUM & WU BAGEL BAKERY CAFE",
-                "styleUrl": "#style15",
-                "styleHash": "-201e5784"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -863,9 +757,7 @@
             },
             "properties": {
                 "name": "Starbucks Coffee",
-                "styleUrl": "#style12",
-                "styleHash": "3683cbdf"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -879,9 +771,7 @@
             },
             "properties": {
                 "name": "Pearl Paint",
-                "styleUrl": "#style22",
-                "styleHash": "ca308e0"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -895,9 +785,7 @@
             },
             "properties": {
                 "name": "Connecticut Muffin",
-                "styleUrl": "#style48",
-                "styleHash": "b9d3c1c"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -911,9 +799,7 @@
             },
             "properties": {
                 "name": "Rosa Mexicano",
-                "styleUrl": "#style36",
-                "styleHash": "-3b6b3ea3"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -927,9 +813,7 @@
             },
             "properties": {
                 "name": "Birch Coffee",
-                "styleUrl": "#style3",
-                "styleHash": "-dac1b09"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -943,9 +827,7 @@
             },
             "properties": {
                 "name": "Brooklyn Bowl",
-                "styleUrl": "#style8",
-                "styleHash": "c9aff52"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -959,9 +841,7 @@
             },
             "properties": {
                 "name": "Borough Hall Farmers Market",
-                "styleUrl": "#style40",
-                "styleHash": "47f84524"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -975,9 +855,7 @@
             },
             "properties": {
                 "name": "Breakfast",
-                "styleUrl": "#style28",
-                "styleHash": "5f5ec21a"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -991,9 +869,7 @@
             },
             "properties": {
                 "name": "Custom House",
-                "styleUrl": "#style62",
-                "styleHash": "651ffce4"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -1007,9 +883,7 @@
             },
             "properties": {
                 "name": "Heights Cafe",
-                "styleUrl": "#style19",
-                "styleHash": "-3e4bdc08"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -1023,9 +897,7 @@
             },
             "properties": {
                 "name": "1020 Bar",
-                "styleUrl": "#style53",
-                "styleHash": "-388aa13e"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -1039,9 +911,7 @@
             },
             "properties": {
                 "name": "Village Pourhouse",
-                "styleUrl": "#style35",
-                "styleHash": "-73dfdd82"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -1055,9 +925,7 @@
             },
             "properties": {
                 "name": "RedFarm",
-                "styleUrl": "#style43",
-                "styleHash": "-ea9de3f"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -1071,9 +939,7 @@
             },
             "properties": {
                 "name": "Hometown Bar-B-Que",
-                "styleUrl": "#style6",
-                "styleHash": "-644e3e6c"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -1087,9 +953,7 @@
             },
             "properties": {
                 "name": "Milano Market",
-                "styleUrl": "#style38",
-                "styleHash": "357dff1b"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -1103,9 +967,7 @@
             },
             "properties": {
                 "name": "Deluxe",
-                "styleUrl": "#style69",
-                "styleHash": "-fafab03"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -1119,9 +981,7 @@
             },
             "properties": {
                 "name": "Dos Amigos",
-                "styleUrl": "#style20",
-                "styleHash": "-644634de"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -1135,9 +995,7 @@
             },
             "properties": {
                 "name": "Home",
-                "styleUrl": "#style137",
-                "styleHash": "706cfeaa",
-                "description": "<div dir=\"ltr\">905</div>"
+                 "description": "905"
             }
         },
         {
@@ -1152,9 +1010,7 @@
             },
             "properties": {
                 "name": "Adam Tohn",
-                "styleUrl": "#style33",
-                "styleHash": "258a7955",
-                "description": "<div dir=\"ltr\">Adam's House!</div>"
+                 "description": "Adam's House!"
             }
         },
         {
@@ -1169,9 +1025,7 @@
             },
             "properties": {
                 "name": "Hahm Ji Bach",
-                "styleUrl": "#style45",
-                "styleHash": "623f5f7f",
-                "description": "<div dir=\"ltr\">Korean Barbecue</div>"
+                 "description": "Korean Barbecue"
             }
         },
         {
@@ -1186,9 +1040,7 @@
             },
             "properties": {
                 "name": "Nan Xiang Xiao Long Bao",
-                "styleUrl": "#style56",
-                "styleHash": "70d33b5f",
-                "description": "<div dir=\"ltr\">Soup Dumplings</div>"
+                 "description": "Soup Dumplings"
             }
         },
         {
@@ -1203,9 +1055,7 @@
             },
             "properties": {
                 "name": "Great Southern Tattoo Co",
-                "styleUrl": "#style155",
-                "styleHash": "504acf99",
-                "description": "<div dir=\"ltr\">Adam's Tattoo Place</div>"
+                 "description": "Adam's Tattoo Place"
             }
         },
         {
@@ -1220,9 +1070,7 @@
             },
             "properties": {
                 "name": "Riad Aderbaz",
-                "styleUrl": "#style43",
-                "styleHash": "-ea9de3f",
-                "description": "<div dir=\"ltr\">First Time in Morocco</div>"
+                 "description": "First Time in Morocco"
             }
         },
         {
@@ -1237,9 +1085,7 @@
             },
             "properties": {
                 "name": "Café Des Épices",
-                "styleUrl": "#style74",
-                "styleHash": "-53d7885d",
-                "description": "<div dir=\"ltr\">Mint Teas and snacks over the sub-Djema</div>"
+                 "description": "Mint Teas and snacks over the sub-Djema"
             }
         },
         {
@@ -1254,9 +1100,7 @@
             },
             "properties": {
                 "name": "Souk Kafé",
-                "styleUrl": "#style21",
-                "styleHash": "-2bd195ff",
-                "description": "<div dir=\"ltr\">Our Favorite</div>"
+                 "description": "Our Favorite"
             }
         },
         {
@@ -1271,9 +1115,7 @@
             },
             "properties": {
                 "name": "269 New York Ave",
-                "styleUrl": "#style70",
-                "styleHash": "-35aa03d9",
-                "description": "Jersey City, NJ 07307<br><a href=\"https://maps.google.com/maps/place?ftid=0x89c2576834ab767d:0x3780281cb1c0d169&amp;q=269+New+York+Avenue,+Jersey+City,+NJ&amp;hl=en&amp;authuser=0&amp;cd=1&amp;cad=src:ppiwlink&amp;ei=9pXgUP-tDu-8xQHsv4CoCQ&amp;dtab=5\" target=\"_blank\"><img src=\"https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=40.745376,-74.044551&amp;thumb=0\"></a>"
+                 "description": "Jersey City, NJ 07307<br><a href=\"https://maps.google.com/maps/place?ftid=0x89c2576834ab767d:0x3780281cb1c0d169&amp;q=269+New+York+Avenue,+Jersey+City,+NJ&amp;hl=en&amp;authuser=0&amp;cd=1&amp;cad=src:ppiwlink&amp;ei=9pXgUP-tDu-8xQHsv4CoCQ&amp;dtab=5\" target=\"_blank\"><img src=\"https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=40.745376,-74.044551&amp;thumb=0\"></a>"
             }
         },
         {
@@ -1288,9 +1130,7 @@
             },
             "properties": {
                 "name": "Riad Lalla Mogador",
-                "styleUrl": "#style6",
-                "styleHash": "-644e3e6c",
-                "description": "<div dir=\"ltr\">Essaouira Riad - smelly ally, roof breakfast, lax service</div>"
+                 "description": "Essaouira Riad - smelly ally, roof breakfast, lax service"
             }
         },
         {
@@ -1305,9 +1145,7 @@
             },
             "properties": {
                 "name": "Taros Restaurant",
-                "styleUrl": "#style152",
-                "styleHash": "-59130d04",
-                "description": "<div dir=\"ltr\">Essaouira - Awesome view overlooking the plaza</div>"
+                 "description": "Essaouira - Awesome view overlooking the plaza"
             }
         },
         {
@@ -1322,9 +1160,7 @@
             },
             "properties": {
                 "name": "Box Maker's",
-                "styleUrl": "#style84",
-                "styleHash": "-7db84b5c",
-                "description": "<div dir=\"ltr\">Shira's present, nice boxmaker</div>"
+                 "description": "Shira's present, nice boxmaker"
             }
         },
         {
@@ -1339,9 +1175,7 @@
             },
             "properties": {
                 "name": "Atlas Almohades Casablanca",
-                "styleUrl": "#style46",
-                "styleHash": "-654c01a2",
-                "description": "<div dir=\"ltr\">our first real shower/bed in a week</div>"
+                 "description": "our first real shower/bed in a week"
             }
         },
         {
@@ -1356,9 +1190,7 @@
             },
             "properties": {
                 "name": "Hassan II Mosque",
-                "styleUrl": "#style67",
-                "styleHash": "7f67173f",
-                "description": "<div dir=\"ltr\">Visitors hours, but beautiful</div>"
+                 "description": "Visitors hours, but beautiful"
             }
         },
         {
@@ -1373,9 +1205,7 @@
             },
             "properties": {
                 "name": "Le Cabestan",
-                "styleUrl": "#style38",
-                "styleHash": "357dff1b",
-                "description": "<div dir=\"ltr\">Nice lunch with Beautiful view - young sommelier</div>"
+                 "description": "Nice lunch with Beautiful view - young sommelier"
             }
         },
         {
@@ -1390,9 +1220,7 @@
             },
             "properties": {
                 "name": "Rick's Cafe",
-                "styleUrl": "#style85",
-                "styleHash": "-4543ac7d",
-                "description": "<div dir=\"ltr\">Underwhelming, but fun hike</div>"
+                 "description": "Underwhelming, but fun hike"
             }
         },
         {
@@ -1407,9 +1235,7 @@
             },
             "properties": {
                 "name": "Will's First Speeding Ticket",
-                "styleUrl": "#style138",
-                "styleHash": "4d6a3234",
-                "description": "<div dir=\"ltr\">Coming back from Adam's</div>"
+                 "description": "Coming back from Adam's"
             }
         },
         {
@@ -1424,9 +1250,7 @@
             },
             "properties": {
                 "name": "315 Riverside Dr",
-                "styleUrl": "#style92",
-                "styleHash": "-18824c19",
-                "description": "New York, NY 10025<br><a href=\"https://maps.google.com/maps/place?ftid=0x89c2f6257b63019b:0x3a4fcfd2290fa2ea&amp;q=315+Riverside+Drive,+New+York,+NY&amp;hl=en&amp;authuser=0&amp;cd=1&amp;cad=src:ppiwlink&amp;ei=TKXgUKu9CIeSxQGf7IDYDw&amp;dtab=5\" target=\"_blank\"><img src=\"https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=40.800795,-73.970869&amp;thumb=0\"></a>"
+                 "description": "New York, NY 10025<br><a href=\"https://maps.google.com/maps/place?ftid=0x89c2f6257b63019b:0x3a4fcfd2290fa2ea&amp;q=315+Riverside+Drive,+New+York,+NY&amp;hl=en&amp;authuser=0&amp;cd=1&amp;cad=src:ppiwlink&amp;ei=TKXgUKu9CIeSxQGf7IDYDw&amp;dtab=5\" target=\"_blank\"><img src=\"https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=40.800795,-73.970869&amp;thumb=0\"></a>"
             }
         },
         {
@@ -1441,9 +1265,7 @@
             },
             "properties": {
                 "name": "Basic",
-                "styleUrl": "#style134",
-                "styleHash": "-376592b3",
-                "description": "<div dir=\"ltr\">Studying and soup</div>"
+                 "description": "Studying and soup"
             }
         },
         {
@@ -1458,9 +1280,7 @@
             },
             "properties": {
                 "name": "Lisa's Italian Deli & Caterer",
-                "styleUrl": "#style49",
-                "styleHash": "3b5a24d0",
-                "description": "<div dir=\"ltr\">Sandwiches for the Plane to Morocco</div>"
+                 "description": "Sandwiches for the Plane to Morocco"
             }
         },
         {
@@ -1475,9 +1295,7 @@
             },
             "properties": {
                 "name": "Cucharamama",
-                "styleUrl": "#style9",
-                "styleHash": "403ca286",
-                "description": "<div dir=\"ltr\">Jersey City date - get sick, bail and go home</div>"
+                 "description": "Jersey City date - get sick, bail and go home"
             }
         },
         {
@@ -1492,9 +1310,7 @@
             },
             "properties": {
                 "name": "Coffee Shop",
-                "styleUrl": "#style78",
-                "styleHash": "55e8e3f4",
-                "description": "<div dir=\"ltr\">Breakfast with bea</div>"
+                 "description": "Breakfast with bea"
             }
         },
         {
@@ -1509,9 +1325,7 @@
             },
             "properties": {
                 "name": "641 O'Farrell St",
-                "styleUrl": "#style141",
-                "styleHash": "-67a6e8e4",
-                "description": "Get us outta here"
+                 "description": "Get us outta here"
             }
         },
         {
@@ -1526,9 +1340,7 @@
             },
             "properties": {
                 "name": "620 Jones St",
-                "styleUrl": "#style24",
-                "styleHash": "7d8c469e",
-                "description": "SF Apartment #2"
+                 "description": "SF Apartment #2"
             }
         },
         {
@@ -1543,9 +1355,7 @@
             },
             "properties": {
                 "name": "1111 Bayhill Dr",
-                "styleUrl": "#style120",
-                "styleHash": "-4c5a01c5",
-                "description": "Nomis Solutions"
+                 "description": "Nomis Solutions"
             }
         },
         {
@@ -1560,9 +1370,7 @@
             },
             "properties": {
                 "name": "O Cafe",
-                "styleUrl": "#style88",
-                "styleHash": "641a3020",
-                "description": "<div dir=\"ltr\">Breakfast with Bea before SF</div>"
+                 "description": "Breakfast with Bea before SF"
             }
         },
         {
@@ -1577,9 +1385,7 @@
             },
             "properties": {
                 "name": "Sunway Cafe Restaurant",
-                "styleUrl": "#style110",
-                "styleHash": "-22793ec6",
-                "description": "<div dir=\"ltr\">Egg Custard Buns</div><img src=\"https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=40.759141,-73.831963&amp;thumb=0\">"
+                 "description": "Egg Custard Buns<img src=\"https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=40.759141,-73.831963&amp;thumb=0\">"
             }
         },
         {
@@ -1594,9 +1400,7 @@
             },
             "properties": {
                 "name": "San Francisco City Hall",
-                "styleUrl": "#style113",
-                "styleHash": "-791b6229",
-                "description": "<div dir=\"ltr\">Sarah's Internship</div>"
+                 "description": "Sarah's Internship"
             }
         },
         {
@@ -1611,9 +1415,7 @@
             },
             "properties": {
                 "name": "1111 Broadway #1515",
-                "styleUrl": "#style145",
-                "styleHash": "7a2b9298",
-                "description": "Foster Interstate Media"
+                 "description": "Foster Interstate Media"
             }
         },
         {
@@ -1628,9 +1430,7 @@
             },
             "properties": {
                 "name": "Contigo",
-                "styleUrl": "#style89",
-                "styleHash": "-63713101",
-                "description": "<div dir=\"ltr\">Tapas and Fun</div>"
+                 "description": "Tapas and Fun"
             }
         },
         {
@@ -1645,9 +1445,7 @@
             },
             "properties": {
                 "name": "Lolinda",
-                "styleUrl": "#style150",
-                "styleHash": "3603b53e",
-                "description": "<div dir=\"ltr\">Techo!</div>"
+                 "description": "Techo!"
             }
         },
         {
@@ -1662,9 +1460,7 @@
             },
             "properties": {
                 "name": "Riverbank State Park",
-                "styleUrl": "#style91",
-                "styleHash": "-50f6eaf8",
-                "description": "<div dir=\"ltr\">Leo's Hockey Game and Babysitting Mila -- SNAP OUT OF IT!</div>"
+                 "description": "Leo's Hockey Game and Babysitting Mila -- SNAP OUT OF IT!"
             }
         },
         {
@@ -1679,9 +1475,7 @@
             },
             "properties": {
                 "name": "Colicchio & Sons Taproom",
-                "styleUrl": "#style65",
-                "styleHash": "e7dd981",
-                "description": "<div dir=\"ltr\">R+M xmas gift - Aniversary</div>"
+                 "description": "R+M xmas gift - Aniversary"
             }
         },
         {
@@ -1696,9 +1490,7 @@
             },
             "properties": {
                 "name": "Five Lamps Tavern",
-                "styleUrl": "#style69",
-                "styleHash": "-fafab03",
-                "description": "<div dir=\"ltr\">Weird lunch and Lee</div>"
+                 "description": "Weird lunch and Lee"
             }
         },
         {
@@ -1713,9 +1505,7 @@
             },
             "properties": {
                 "name": "Jin Ramen",
-                "styleUrl": "#style28",
-                "styleHash": "5f5ec21a",
-                "description": "<div dir=\"ltr\">Fun Dinners</div>"
+                 "description": "Fun Dinners"
             }
         },
         {
@@ -1730,9 +1520,7 @@
             },
             "properties": {
                 "name": "Le Cirque",
-                "styleUrl": "#style154",
-                "styleHash": "17d630ba",
-                "description": "<div dir=\"ltr\">Restaurant Week</div>"
+                 "description": "Restaurant Week"
             }
         },
         {
@@ -1747,9 +1535,7 @@
             },
             "properties": {
                 "name": "num pang sandwich shop",
-                "styleUrl": "#style102",
-                "styleHash": "7850c1f7",
-                "description": "<div dir=\"ltr\">Random wandering happenstance</div>"
+                 "description": "Random wandering"
             }
         },
         {
@@ -1764,9 +1550,7 @@
             },
             "properties": {
                 "name": "Cafe Lalo",
-                "styleUrl": "#style131",
-                "styleHash": "-3dc625e5",
-                "description": "<div dir=\"ltr\">Sarah's surprise date: hot chocolate</div>"
+                 "description": "Sarah's surprise date: hot chocolate"
             }
         },
         {
@@ -1781,9 +1565,7 @@
             },
             "properties": {
                 "name": "Jing Fong Restaurant",
-                "styleUrl": "#style99",
-                "styleHash": "72ae0c00",
-                "description": "<div dir=\"ltr\">Great Weekend Brunch and the start of a dim sum obsession</div>"
+                 "description": "Great Weekend Brunch and the start of a dim sum obsession"
             }
         },
         {
@@ -1798,9 +1580,7 @@
             },
             "properties": {
                 "name": "Pongsri Thai Restaurant",
-                "styleUrl": "#style4",
-                "styleHash": "2ac883d6",
-                "description": "<div dir=\"ltr\">Thai and Arraignments; great date, Will</div>"
+                 "description": "Thai and Arraignments; great date, Will"
             }
         },
         {
@@ -1815,9 +1595,7 @@
             },
             "properties": {
                 "name": "New York Criminal Court",
-                "styleUrl": "#style25",
-                "styleHash": "-49ff1a83",
-                "description": "<div dir=\"ltr\">and it was love</div>"
+                 "description": "and it was love"
             }
         },
         {
@@ -1832,9 +1610,7 @@
             },
             "properties": {
                 "name": "Acme Burgerhaus",
-                "styleUrl": "#style80",
-                "styleHash": "-5f8ac6d8",
-                "description": "<div dir=\"ltr\">Sweet Potato Fries</div>"
+                 "description": "Sweet Potato Fries"
             }
         },
         {
@@ -1849,9 +1625,7 @@
             },
             "properties": {
                 "name": "Brenda's French Soul Food",
-                "styleUrl": "#style147",
-                "styleHash": "-14eb2faa",
-                "description": "<div dir=\"ltr\">Awesome mac and cheese; too much food</div>"
+                 "description": "Awesome mac and cheese; too much food"
             }
         },
         {
@@ -1866,9 +1640,7 @@
             },
             "properties": {
                 "name": "Chambers",
-                "styleUrl": "#style114",
-                "styleHash": "-40a6c34a",
-                "description": "<div dir=\"ltr\">Really good, too chic</div>"
+                 "description": "Really good, too chic"
             }
         },
         {
@@ -1883,9 +1655,7 @@
             },
             "properties": {
                 "name": "Chez Maman",
-                "styleUrl": "#style97",
-                "styleHash": "1c4ce42",
-                "description": "<div dir=\"ltr\">Hayes wander</div>"
+                 "description": "Hayes wander"
             }
         },
         {
@@ -1900,9 +1670,7 @@
             },
             "properties": {
                 "name": "Farina Pizza & Cucina Italiana",
-                "styleUrl": "#style13",
-                "styleHash": "6ef86abe",
-                "description": "<div dir=\"ltr\">Delfina Lines... womp womp<br>still got to sit outside, pretty great</div>"
+                 "description": "Delfina Lines... womp womp<br>still got to sit outside, pretty great"
             }
         },
         {
@@ -1917,9 +1685,7 @@
             },
             "properties": {
                 "name": "Delarosa",
-                "styleUrl": "#style50",
-                "styleHash": "1e178225",
-                "description": "<div dir=\"ltr\">Marina adventure; now you see me movie</div>"
+                 "description": "Marina adventure; now you see me movie"
             }
         },
         {
@@ -1934,9 +1700,7 @@
             },
             "properties": {
                 "name": "Delfina Restaurant",
-                "styleUrl": "#style7",
-                "styleHash": "-2bd99f8d",
-                "description": "<div dir=\"ltr\">great pizza</div>"
+                 "description": "great pizza"
             }
         },
         {
@@ -1951,9 +1715,7 @@
             },
             "properties": {
                 "name": "Hot Cookie",
-                "styleUrl": "#style48",
-                "styleHash": "36949b1",
-                "description": "<div dir=\"ltr\">awesome cookies and penis macaroons...?</div>"
+                 "description": "awesome cookies and penis macaroons...?"
             }
         },
         {
@@ -1968,9 +1730,7 @@
             },
             "properties": {
                 "name": "Jasper's Corner Tap & Kitchen",
-                "styleUrl": "#style14",
-                "styleHash": "-2ed9bd0e",
-                "description": "<div dir=\"ltr\">The first usual</div>"
+                 "description": "The first usual"
             }
         },
         {
@@ -1985,9 +1745,7 @@
             },
             "properties": {
                 "name": "Lahore Karahi",
-                "styleUrl": "#style54",
-                "styleHash": "-162f9a0a",
-                "description": "<div dir=\"ltr\">Best Indian Food.</div>"
+                 "description": "Best Indian Food."
             }
         },
         {
@@ -2002,9 +1760,7 @@
             },
             "properties": {
                 "name": "Lers Ros Thai",
-                "styleUrl": "#style1",
-                "styleHash": "-7f4a3672",
-                "description": "<div dir=\"ltr\">First trip down larkin</div>"
+                 "description": "First trip down larkin"
             }
         },
         {
@@ -2019,9 +1775,7 @@
             },
             "properties": {
                 "name": "Mama Ji's",
-                "styleUrl": "#style44",
-                "styleHash": "23a5dd35",
-                "description": "<div dir=\"ltr\">Dim Sum and being Regulars</div>"
+                 "description": "Dim Sum and being Regulars"
             }
         },
         {
@@ -2036,9 +1790,7 @@
             },
             "properties": {
                 "name": "Mission Chinese Food",
-                "styleUrl": "#style60",
-                "styleHash": "-2fc87dc5",
-                "description": "<div dir=\"ltr\">good dumplings, wayyyy too chic</div>"
+                 "description": "good dumplings, wayyyy too chic"
             }
         },
         {
@@ -2053,9 +1805,7 @@
             },
             "properties": {
                 "name": "Pakwan Restaurant",
-                "styleUrl": "#style30",
-                "styleHash": "7db7e7f8",
-                "description": "<div dir=\"ltr\">simple, quick</div>"
+                 "description": "simple, quick"
             }
         },
         {
@@ -2070,9 +1820,7 @@
             },
             "properties": {
                 "name": "Pancho Villa Taqueria",
-                "styleUrl": "#style135",
-                "styleHash": "8b486c",
-                "description": "<div dir=\"ltr\">After work meeting with emily</div>"
+                 "description": "After work meeting with emily"
             }
         },
         {
@@ -2087,9 +1835,7 @@
             },
             "properties": {
                 "name": "Redford",
-                "styleUrl": "#style94",
-                "styleHash": "27a88fa",
-                "description": "<div dir=\"ltr\">New usual?</div>"
+                 "description": "New usual?"
             }
         },
         {
@@ -2104,9 +1850,7 @@
             },
             "properties": {
                 "name": "Sai Jai Thai",
-                "styleUrl": "#style17",
-                "styleHash": "78f8d44f",
-                "description": "<div dir=\"ltr\">Will's first day</div>"
+                 "description": "Will's first day"
             }
         },
         {
@@ -2121,9 +1865,7 @@
             },
             "properties": {
                 "name": "Saigon Sandwich Shop",
-                "styleUrl": "#style128",
-                "styleHash": "-1dccaef8",
-                "description": "<div dir=\"ltr\">Visiting sarah for lunch, take #1</div>"
+                 "description": "Visiting sarah for lunch, take #1"
             }
         },
         {
@@ -2138,9 +1880,7 @@
             },
             "properties": {
                 "name": "Schulzies Bread Pudding",
-                "styleUrl": "#style23",
-                "styleHash": "5f5ff094",
-                "description": "<div dir=\"ltr\">After Muir</div>"
+                 "description": "After Muir"
             }
         },
         {
@@ -2155,9 +1895,7 @@
             },
             "properties": {
                 "name": "Sugar Cafe",
-                "styleUrl": "#style83",
-                "styleHash": "45f251a",
-                "description": "<div dir=\"ltr\">Work and drinks and a fireplace</div>"
+                 "description": "Work and drinks and a fireplace"
             }
         },
         {
@@ -2172,9 +1910,7 @@
             },
             "properties": {
                 "name": "Swig",
-                "styleUrl": "#style129",
-                "styleHash": "1a242c27",
-                "description": "<div dir=\"ltr\">Pranav catch-up</div>"
+                 "description": "Pranav catch-up"
             }
         },
         {
@@ -2189,9 +1925,7 @@
             },
             "properties": {
                 "name": "The Sycamore",
-                "styleUrl": "#style76",
-                "styleHash": "-19f8d24a",
-                "description": "<div dir=\"ltr\">board games in a bar?</div>"
+                 "description": "board games in a bar?"
             }
         },
         {
@@ -2206,9 +1940,7 @@
             },
             "properties": {
                 "name": "Tacolicious",
-                "styleUrl": "#style19",
-                "styleHash": "-17257573",
-                "description": "<div dir=\"ltr\">So good!</div>"
+                 "description": "So good!"
             }
         },
         {
@@ -2223,9 +1955,7 @@
             },
             "properties": {
                 "name": "Tacolicious",
-                "styleUrl": "#style124",
-                "styleHash": "26fe48c",
-                "description": "<div dir=\"ltr\">The Levine-Neumanns see Marina</div>"
+                 "description": "The Levine-Neumanns see Marina"
             }
         },
         {
@@ -2240,9 +1970,7 @@
             },
             "properties": {
                 "name": "Taylor Street Coffee Shop",
-                "styleUrl": "#style153",
-                "styleHash": "1cfea3b0",
-                "description": "<div dir=\"ltr\">Searching for breakfast one day...</div>"
+                 "description": "Searching for breakfast one day..."
             }
         },
         {
@@ -2257,9 +1985,7 @@
             },
             "properties": {
                 "name": "Venticello",
-                "styleUrl": "#style98",
-                "styleHash": "-1dc20a8a",
-                "description": "<div dir=\"ltr\">The Falk-Wallaces and Adam+Sarah</div>"
+                 "description": "The Falk-Wallaces and Adam+Sarah"
             }
         },
         {
@@ -2274,9 +2000,7 @@
             },
             "properties": {
                 "name": "John Colins Cocktails",
-                "styleUrl": "#style12",
-                "styleHash": "61448cb4",
-                "description": "<div dir=\"ltr\">Buy Back Launch Party!</div>"
+                 "description": "Buy Back Launch Party!"
             }
         },
         {
@@ -2291,9 +2015,7 @@
             },
             "properties": {
                 "name": "Mikkeller Bar",
-                "styleUrl": "#style51",
-                "styleHash": "41fdd499",
-                "description": "<div dir=\"ltr\">With the soccer team!<br>Biergarten</div>"
+                 "description": "With the soccer team!<br>Biergarten"
             }
         },
         {
@@ -2308,9 +2030,7 @@
             },
             "properties": {
                 "name": "The Tempest",
-                "styleUrl": "#style136",
-                "styleHash": "387c238b",
-                "description": "<div dir=\"ltr\">With the soccer team round 1!<br>Jessica and bruce...?</div>"
+                 "description": "With the soccer team round 1!"
             }
         },
         {
@@ -2325,9 +2045,7 @@
             },
             "properties": {
                 "name": "Pauline's Pizza & Wine Bar",
-                "styleUrl": "#style158",
-                "styleHash": "34b2eb4b",
-                "description": "<div dir=\"ltr\">Pizza and wine with Krishna</div>"
+                 "description": "Pizza and wine with Krishna"
             }
         },
         {
@@ -2342,9 +2060,7 @@
             },
             "properties": {
                 "name": "Warwick Drive-In Theatre",
-                "styleUrl": "#style5",
-                "styleHash": "6079360a",
-                "description": "<div dir=\"ltr\">Great date in the convertible. so many mosquitoes! TED.</div>"
+                 "description": "Great date in the convertible. so many mosquitoes! TED."
             }
         },
         {
@@ -2359,9 +2075,7 @@
             },
             "properties": {
                 "name": "1746 Post St",
-                "styleUrl": "#style142",
-                "styleHash": "1ee33fd0",
-                "description": "San Francisco, CA 94115<br><img src=\"https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=37.785588,-122.430590&amp;thumb=0\">"
+                 "description": "San Francisco, CA 94115<br><img src=\"https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=37.785588,-122.430590&amp;thumb=0\">"
             }
         },
         {
@@ -2376,9 +2090,7 @@
             },
             "properties": {
                 "name": "Pier 40",
-                "styleUrl": "#style156",
-                "styleHash": "-3b2ecaf3",
-                "description": "<div dir=\"ltr\">BCV Cruise</div>"
+                 "description": "BCV Cruise"
             }
         },
         {
@@ -2393,9 +2105,7 @@
             },
             "properties": {
                 "name": "AT&T Park",
-                "styleUrl": "#style47",
-                "styleHash": "-3487916e",
-                "description": "<div dir=\"ltr\">Bleacher seats with orangutans.</div>"
+                 "description": "Bleacher seats"
             }
         },
         {
@@ -2410,9 +2120,7 @@
             },
             "properties": {
                 "name": "Computer History Museum",
-                "styleUrl": "#style108",
-                "styleHash": "55de3f86",
-                "description": "<div dir=\"ltr\">Fun afternoon jaunt to mountainview</div>"
+                 "description": "Fun afternoon jaunt to mountainview"
             }
         },
         {
@@ -2427,9 +2135,7 @@
             },
             "properties": {
                 "name": "Shoreline Amphitheatre",
-                "styleUrl": "#style26",
-                "styleHash": "73281f1",
-                "description": "<div dir=\"ltr\">DYLAN!</div>"
+                 "description": "DYLAN!"
             }
         },
         {
@@ -2444,9 +2150,7 @@
             },
             "properties": {
                 "name": "Mediterranean Grill House",
-                "styleUrl": "#style118",
-                "styleHash": "1c08c847",
-                "description": "<div dir=\"ltr\">Sodas to kill some time in the sun</div>"
+                 "description": "Sodas to kill some time in the sun"
             }
         },
         {
@@ -2461,9 +2165,7 @@
             },
             "properties": {
                 "name": "BookBuyers",
-                "styleUrl": "#style41",
-                "styleHash": "7bd34bd8",
-                "description": "<div dir=\"ltr\">$3 movies and cool covers. fountainhead and death of a salesman</div>"
+                 "description": "$3 movies and cool covers. fountainhead and death of a salesman"
             }
         },
         {
@@ -2478,9 +2180,7 @@
             },
             "properties": {
                 "name": "Exploratorium",
-                "styleUrl": "#style121",
-                "styleHash": "5a9d532f",
-                "description": "<div dir=\"ltr\">Kidsy day</div>"
+                 "description": "Kidsy day"
             }
         },
         {
@@ -2495,9 +2195,7 @@
             },
             "properties": {
                 "name": "Mokutanya Restaurant",
-                "styleUrl": "#style90",
-                "styleHash": "22b71c7e",
-                "description": "<div dir=\"ltr\">so much for alligator and 'roo</div>"
+                 "description": "so much for alligator and 'roo"
             }
         },
         {
@@ -2512,9 +2210,7 @@
             },
             "properties": {
                 "name": "1655 Mission St",
-                "styleUrl": "#style71",
-                "styleHash": "-31ad19e5",
-                "description": "Krishna's place"
+                 "description": "Krishna's place"
             }
         },
         {
@@ -2529,9 +2225,7 @@
             },
             "properties": {
                 "name": "Trader Joe's",
-                "styleUrl": "#style139",
-                "styleHash": "-1fb14b18",
-                "description": "<div dir=\"ltr\">Groceries</div>"
+                 "description": "Groceries"
             }
         },
         {
@@ -2546,9 +2240,7 @@
             },
             "properties": {
                 "name": "Soda Popinski's",
-                "styleUrl": "#style40",
-                "styleHash": "43e270b9",
-                "description": "<div dir=\"ltr\">Happy hour before the Giants game with the city hall interns</div>"
+                 "description": "Happy hour before the Giants game with the city hall interns"
             }
         },
         {
@@ -2563,9 +2255,7 @@
             },
             "properties": {
                 "name": "Loló",
-                "styleUrl": "#style109",
-                "styleHash": "-7230e55b",
-                "description": "<div dir=\"ltr\">Techo line troubles with Dad</div>"
+                 "description": "Techo line troubles with Dad"
             }
         },
         {
@@ -2580,9 +2270,7 @@
             },
             "properties": {
                 "name": "Zazie",
-                "styleUrl": "#style72",
-                "styleHash": "643c13a",
-                "description": "<div dir=\"ltr\">Lunch with Janet</div>"
+                 "description": "Lunch with Janet"
             }
         },
         {
@@ -2597,9 +2285,7 @@
             },
             "properties": {
                 "name": "Hooker's Sweet Treats",
-                "styleUrl": "#style52",
-                "styleHash": "79eeafb8",
-                "description": "<div dir=\"ltr\">Just don't google \"Hookers SF Tenderloin\"</div>"
+                 "description": "Just don't google \"Hookers SF Tenderloin\""
             }
         },
         {
@@ -2614,9 +2300,7 @@
             },
             "properties": {
                 "name": "Taqueria El Sol",
-                "styleUrl": "#style31",
-                "styleHash": "-4a573ce9",
-                "description": "<div dir=\"ltr\">Good Burritos</div>"
+                 "description": "Good Burritos"
             }
         },
         {
@@ -2631,9 +2315,7 @@
             },
             "properties": {
                 "name": "Ferry Building Marketplace",
-                "styleUrl": "#style107",
-                "styleHash": "-6d6823ae",
-                "description": "<div dir=\"ltr\">Best Peaches Ever</div>"
+                 "description": "Best Peaches Ever"
             }
         },
         {
@@ -2648,9 +2330,7 @@
             },
             "properties": {
                 "name": "Crocker Amazon Playground",
-                "styleUrl": "#style151",
-                "styleHash": "6e78541d",
-                "description": "<div dir=\"ltr\">SML Soccer</div>"
+                 "description": "SML Soccer"
             }
         },
         {
@@ -2665,9 +2345,7 @@
             },
             "properties": {
                 "name": "Silver Terrace Playground",
-                "styleUrl": "#style8",
-                "styleHash": "c9aff52",
-                "description": "<div dir=\"ltr\">SML Soccer</div>"
+                 "description": "SML Soccer"
             }
         },
         {
@@ -2682,9 +2360,7 @@
             },
             "properties": {
                 "name": "Mijita",
-                "styleUrl": "#style36",
-                "styleHash": "-32a2f54e",
-                "description": "<div dir=\"ltr\">Ferry building mexican + walk</div>"
+                 "description": "Ferry building mexican + walk"
             }
         },
         {
@@ -2699,9 +2375,7 @@
             },
             "properties": {
                 "name": "Outside Lands",
-                "styleUrl": "#style34",
-                "styleHash": "53ab839f",
-                "description": "<div dir=\"ltr\">Hall+Oates, A-Track, Vampire Weekend, Willie Nelson+Family (and John Stamos?), Matt+Kim, Red Hot Chili Peppers</div>"
+                 "description": "Hall+Oates, A-Track, Vampire Weekend, Willie Nelson+Family (and John Stamos?), Matt+Kim, Red Hot Chili Peppers"
             }
         },
         {
@@ -2716,9 +2390,7 @@
             },
             "properties": {
                 "name": "Sarah's 10k",
-                "styleUrl": "#style125",
-                "styleHash": "-3212e76a",
-                "description": "<div dir=\"ltr\">DSE: Start Slow and Taper Off</div>"
+                 "description": "DSE: Start Slow and Taper Off"
             }
         },
         {
@@ -2733,9 +2405,7 @@
             },
             "properties": {
                 "name": "Tribune Tavern",
-                "styleUrl": "#style103",
-                "styleHash": "-4f3a9f2a",
-                "description": "<div dir=\"ltr\">Pick up Sarah at work day</div>"
+                 "description": "Pick up Sarah at work day"
             }
         },
         {
@@ -2750,9 +2420,7 @@
             },
             "properties": {
                 "name": "Muir Woods National Monument",
-                "styleUrl": "#style62",
-                "styleHash": "651ffce4",
-                "description": "<div dir=\"ltr\">Hike!</div>"
+                 "description": "Hike!"
             }
         },
         {
@@ -2767,9 +2435,7 @@
             },
             "properties": {
                 "name": "Ritual Coffee Roasters",
-                "styleUrl": "#style140",
-                "styleHash": "5fe4783d",
-                "description": "<div dir=\"ltr\">Citrus and chocolate hints with fig undertones and an acai aura</div>"
+                 "description": "Citrus and chocolate hints with fig undertones and an acai aura"
             }
         },
         {
@@ -2784,9 +2450,7 @@
             },
             "properties": {
                 "name": "Blue Fig",
-                "styleUrl": "#style146",
-                "styleHash": "-4d5fce89",
-                "description": "<div dir=\"ltr\">a coffee shop with outlets</div>"
+                 "description": "a coffee shop with outlets"
             }
         },
         {
@@ -2801,9 +2465,7 @@
             },
             "properties": {
                 "name": "Angel Cafe & Deli",
-                "styleUrl": "#style100",
-                "styleHash": "7678439",
-                "description": "<div dir=\"ltr\">morning coffee and slow-down</div>"
+                 "description": "morning coffee and slow-down"
             }
         },
         {
@@ -2818,9 +2480,7 @@
             },
             "properties": {
                 "name": "Mango's Cafe",
-                "styleUrl": "#style27",
-                "styleHash": "26ea233b",
-                "description": "<div dir=\"ltr\">coffee nearby</div>"
+                 "description": "coffee nearby"
             }
         },
         {
@@ -2835,9 +2495,7 @@
             },
             "properties": {
                 "name": "Hilton San Francisco Union Square",
-                "styleUrl": "#style29",
-                "styleHash": "-682c9f07",
-                "description": "<div dir=\"ltr\">Starbucks wifi</div>"
+                 "description": "Starbucks wifi"
             }
         },
         {
@@ -2852,9 +2510,7 @@
             },
             "properties": {
                 "name": "Hotel Nikko San Francisco",
-                "styleUrl": "#style116",
-                "styleHash": "30427a74",
-                "description": "<div dir=\"ltr\">Pool after Sausalito beach</div>"
+                 "description": "Pool after Sausalito beach"
             }
         },
         {
@@ -2869,9 +2525,7 @@
             },
             "properties": {
                 "name": "Legion of Honor",
-                "styleUrl": "#style157",
-                "styleHash": "-3ecbf2a9",
-                "description": "<div dir=\"ltr\">Impressionists on the Water; day with Janet</div>"
+                 "description": "Impressionists on the Water; day with Janet"
             }
         },
         {
@@ -2886,9 +2540,7 @@
             },
             "properties": {
                 "name": "Lands End Trail",
-                "styleUrl": "#style132",
-                "styleHash": "-5518706",
-                "description": "Hike!"
+                 "description": "Hike!"
             }
         },
         {
@@ -2903,9 +2555,7 @@
             },
             "properties": {
                 "name": "Sutro Baths",
-                "styleUrl": "#style68",
-                "styleHash": "-482449e2",
-                "description": "<div dir=\"ltr\">Pretty Ruins</div>"
+                 "description": "Pretty Ruins"
             }
         },
         {
@@ -2920,9 +2570,7 @@
             },
             "properties": {
                 "name": "Cliff House",
-                "styleUrl": "#style144",
-                "styleHash": "41b6f3b9",
-                "description": "<div dir=\"ltr\">Drink with Janet, post-hike.</div>"
+                 "description": "Drink with Janet, post-hike."
             }
         },
         {
@@ -2937,9 +2585,7 @@
             },
             "properties": {
                 "name": "Rodeo Beach",
-                "styleUrl": "#style18",
-                "styleHash": "-4f165092",
-                "description": "July 4th with the Falk/Wallaces<br>"
+                 "description": "July 4th with the Falk/Wallaces<br>"
             }
         },
         {
@@ -2954,9 +2600,7 @@
             },
             "properties": {
                 "name": "Pescadero, CA",
-                "styleUrl": "#style37",
-                "styleHash": "54de5d1",
-                "description": "Drive down the coast; DOLPHINS!<br>"
+                 "description": "Drive down the coast; DOLPHINS!<br>"
             }
         },
         {
@@ -2971,9 +2615,7 @@
             },
             "properties": {
                 "name": "Bella Vineyards & Wine Caves",
-                "styleUrl": "#style10",
-                "styleHash": "-e9d298a",
-                "description": "<div dir=\"ltr\">Nice tour guide, great tour; Sarah's parents in town.</div>"
+                 "description": "Nice tour guide, great tour; Sarah's parents in town."
             }
         },
         {
@@ -2988,9 +2630,7 @@
             },
             "properties": {
                 "name": "Preston Vineyards",
-                "styleUrl": "#style15",
-                "styleHash": "9171e11",
-                "description": "<div dir=\"ltr\">With Sarah's parents</div>"
+                 "description": "With Sarah's parents"
             }
         },
         {
@@ -3005,9 +2645,7 @@
             },
             "properties": {
                 "name": "Cameron's Restaurant Pub And Inn",
-                "styleUrl": "#style95",
-                "styleHash": "3a6b6419",
-                "description": "<div dir=\"ltr\">Just need lunch after drive down the coast</div>"
+                 "description": "Just need lunch after drive down the coast"
             }
         },
         {
@@ -3022,9 +2660,7 @@
             },
             "properties": {
                 "name": "Dry Creek General Store",
-                "styleUrl": "#style101",
-                "styleHash": "-31b7be53",
-                "description": "<div dir=\"ltr\">Sandwiches between vineyards. classic country store.</div>"
+                 "description": "Sandwiches between vineyards. classic country store."
             }
         },
         {
@@ -3039,9 +2675,7 @@
             },
             "properties": {
                 "name": "Sbragia Family Vineyards",
-                "styleUrl": "#style81",
-                "styleHash": "-6b829124",
-                "description": "<div dir=\"ltr\">Nice terrace; a bit too inorganic</div>"
+                 "description": "Nice terrace; a bit too inorganic vibe"
             }
         },
         {
@@ -3056,9 +2690,7 @@
             },
             "properties": {
                 "name": "Venice Gourmet",
-                "styleUrl": "#style104",
-                "styleHash": "761ad30a",
-                "description": "<div dir=\"ltr\">Sandwiches for the beach on the 4th of July</div>"
+                 "description": "Sandwiches for the beach on the 4th of July"
             }
         },
         {
@@ -3073,9 +2705,7 @@
             },
             "properties": {
                 "name": "Creek/Lake View",
-                "styleUrl": "#style64",
-                "styleHash": "-29f6c55e",
-                "description": "<div dir=\"ltr\">After a long day at the vineyards...</div>"
+                 "description": "After a long day at the vineyards..."
             }
         },
         {
@@ -3090,9 +2720,7 @@
             },
             "properties": {
                 "name": "Nile Cafe",
-                "styleUrl": "#style148",
-                "styleHash": "23896f35",
-                "description": "<div dir=\"ltr\">Tea and hanging out</div>"
+                 "description": "Tea and hanging out"
             }
         },
         {
@@ -3107,9 +2735,7 @@
             },
             "properties": {
                 "name": "California Academy of Sciences",
-                "styleUrl": "#style149",
-                "styleHash": "5bfe0e14",
-                "description": "<div dir=\"ltr\">Al E. Gator (claude) and biosphere</div>"
+                 "description": "Al E. Gator (claude) and biosphere"
             }
         },
         {
@@ -3124,9 +2750,7 @@
             },
             "properties": {
                 "name": "Epicenter Cafe",
-                "styleUrl": "#style11",
-                "styleHash": "-1f0d300",
-                "description": "<div dir=\"ltr\">Work and snacks</div>"
+                 "description": "Work and snacks"
             }
         },
         {
@@ -3141,9 +2765,7 @@
             },
             "properties": {
                 "name": "Jillian's",
-                "styleUrl": "#style75",
-                "styleHash": "-1b62e97e",
-                "description": "<div dir=\"ltr\">Drinks and snacks before elysium with crowd</div>"
+                 "description": "Drinks and snacks before elysium with crowd"
             }
         },
         {
@@ -3158,9 +2780,7 @@
             },
             "properties": {
                 "name": "Green Papaya",
-                "styleUrl": "#style2",
-                "styleHash": "-4620b9e8",
-                "description": "<div dir=\"ltr\">Dinner before elysium with crowd</div>"
+                 "description": "Dinner before elysium with crowd"
             }
         },
         {
@@ -3175,9 +2795,7 @@
             },
             "properties": {
                 "name": "AMC Metreon 16",
-                "styleUrl": "#style22",
-                "styleHash": "ca308e0",
-                "description": "<div dir=\"ltr\">Elysium, </div>"
+                 "description": "Elysium"
             }
         },
         {
@@ -3192,9 +2810,7 @@
             },
             "properties": {
                 "name": "AMC Van Ness 14",
-                "styleUrl": "#style143",
-                "styleHash": "94254da",
-                "description": "<div dir=\"ltr\">Jobs, </div>"
+                 "description": "Jobs"
             }
         },
         {
@@ -3209,9 +2825,7 @@
             },
             "properties": {
                 "name": "Twin Peaks",
-                "styleUrl": "#style86",
-                "styleHash": "-ccf0d9e",
-                "description": "Drive/Hike/View with Krishna"
+                 "description": "Drive/Hike/View with Krishna"
             }
         },
         {
@@ -3618,9 +3232,7 @@
             },
             "properties": {
                 "name": "Driving directions to Bunker Rd",
-                "styleUrl": "#style59",
-                "styleHash": "-33a9600d",
-                "_SnapToRoads": "true"
+                 "_SnapToRoads": "true"
             }
         },
         {
@@ -3635,9 +3247,7 @@
             },
             "properties": {
                 "name": "To: Bunker Rd",
-                "styleUrl": "#style93",
-                "styleHash": "1ff252c6"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -3651,9 +3261,7 @@
             },
             "properties": {
                 "name": "From: McCullough Rd",
-                "styleUrl": "#style79",
-                "styleHash": "-39906e02"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -4109,9 +3717,7 @@
             },
             "properties": {
                 "name": "Driving directions to Conzelman Rd",
-                "styleUrl": "#style32",
-                "styleHash": "e66c658",
-                "_SnapToRoads": "true"
+                 "_SnapToRoads": "true"
             }
         },
         {
@@ -4126,9 +3732,7 @@
             },
             "properties": {
                 "name": "To: Conzelman Rd",
-                "styleUrl": "#style42",
-                "styleHash": "-471e7d1e"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -5874,9 +5478,7 @@
             },
             "properties": {
                 "name": "Driving directions to Bunker Rd",
-                "styleUrl": "#style111",
-                "styleHash": "-653ff370",
-                "_SnapToRoads": "true"
+                 "_SnapToRoads": "true"
             }
         },
         {
@@ -5891,9 +5493,7 @@
             },
             "properties": {
                 "name": "To: Bunker Rd",
-                "styleUrl": "#style57",
-                "styleHash": "-56b825c2"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -5907,9 +5507,7 @@
             },
             "properties": {
                 "name": "Rosa Mexicano",
-                "styleUrl": "#style130",
-                "styleHash": "-763ac4c4",
-                "description": "<div dir=\"ltr\">With R+M, Celia, Joon, M's work friend</div>"
+                 "description": "With R+M, Celia, Joon, M's work friend"
             }
         },
         {
@@ -5924,9 +5522,7 @@
             },
             "properties": {
                 "name": "Connecticut Muffin",
-                "styleUrl": "#style3",
-                "styleHash": "-dac1b09",
-                "description": "<div dir=\"ltr\">Lunch when will visits sarah at deblasio the first time</div>"
+                 "description": "Lunch when will visits sarah at deblasio the first time"
             }
         },
         {
@@ -5941,9 +5537,7 @@
             },
             "properties": {
                 "name": "62 Court St",
-                "styleUrl": "#style133",
-                "styleHash": "332317d9",
-                "description": "SML deblasio internship"
+                 "description": "SML deblasio internship"
             }
         },
         {
@@ -5958,9 +5552,7 @@
             },
             "properties": {
                 "name": "Marina Theatre",
-                "styleUrl": "#style122",
-                "styleHash": "248f3bf9",
-                "description": "<div dir=\"ltr\">Now You See Me</div>"
+                 "description": "Now You See Me"
             }
         },
         {
@@ -5975,9 +5567,7 @@
             },
             "properties": {
                 "name": "Birch Coffee",
-                "styleUrl": "#style20",
-                "styleHash": "-644634de"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -5991,9 +5581,7 @@
             },
             "properties": {
                 "name": "Connecticut Muffin",
-                "styleUrl": "#style105",
-                "styleHash": "21ae9e94"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -6007,9 +5595,7 @@
             },
             "properties": {
                 "name": "32 Court St",
-                "styleUrl": "#style115",
-                "styleHash": "-832246b",
-                "description": "Brooklyn, NY 11201<br><img src=\"https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=40.692979,-73.991060&amp;thumb=0\">"
+                 "description": "Brooklyn, NY 11201<br><img src=\"https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=40.692979,-73.991060&amp;thumb=0\">"
             }
         },
         {
@@ -6024,9 +5610,7 @@
             },
             "properties": {
                 "name": "Borough Hall Farmers Market",
-                "styleUrl": "#style53",
-                "styleHash": "-388aa13e",
-                "description": "<div dir=\"ltr\">before the pcp freshman dinner</div>"
+                 "description": "before the pcp freshman dinner"
             }
         },
         {
@@ -6041,9 +5625,7 @@
             },
             "properties": {
                 "name": "Deluxe",
-                "styleUrl": "#style126",
-                "styleHash": "661b775"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -6057,9 +5639,7 @@
             },
             "properties": {
                 "name": "The Bell House",
-                "styleUrl": "#style39",
-                "styleHash": "6df29dfa"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -6073,9 +5653,7 @@
             },
             "properties": {
                 "name": "Saiguette",
-                "styleUrl": "#style63",
-                "styleHash": "780a1398",
-                "description": "935 Columbus Ave, New York, NY 10025<br><img src=\"https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=40.799031,-73.962813&amp;thumb=0\">"
+                 "description": "935 Columbus Ave, New York, NY 10025<br><img src=\"https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=40.799031,-73.962813&amp;thumb=0\">"
             }
         },
         {
@@ -6090,9 +5668,7 @@
             },
             "properties": {
                 "name": "BLT Burger",
-                "styleUrl": "#style119",
-                "styleHash": "-265fa8ef"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -6106,9 +5682,7 @@
             },
             "properties": {
                 "name": "Bourbon Coffee",
-                "styleUrl": "#style61",
-                "styleHash": "8285d5a"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -6122,9 +5696,7 @@
             },
             "properties": {
                 "name": "BLT Burger",
-                "styleUrl": "#style96",
-                "styleHash": "-36afd09d"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -6138,9 +5710,7 @@
             },
             "properties": {
                 "name": "Bourbon Coffee",
-                "styleUrl": "#style66",
-                "styleHash": "46f27860"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -6154,9 +5724,7 @@
             },
             "properties": {
                 "name": "Birreria",
-                "styleUrl": "#style16",
-                "styleHash": "1856475b"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -6170,9 +5738,7 @@
             },
             "properties": {
                 "name": "Saiguette",
-                "styleUrl": "#style87",
-                "styleHash": "2ba59141",
-                "description": "935 Columbus Ave, New York, NY 10025<br><img src=\"https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=40.799031,-73.962813&amp;thumb=0\">"
+                 "description": "935 Columbus Ave, New York, NY 10025<br><img src=\"https://cbks0.google.com/cbk?output=thumbnail&amp;w=90&amp;h=68&amp;ll=40.799031,-73.962813&amp;thumb=0\">"
             }
         },
         {
@@ -6187,9 +5753,7 @@
             },
             "properties": {
                 "name": "Yasha Ramen",
-                "styleUrl": "#style35",
-                "styleHash": "-73dfdd82"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -6203,9 +5767,7 @@
             },
             "properties": {
                 "name": "Mexican Deli Inc.",
-                "styleUrl": "#style77",
-                "styleHash": "55865440"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -6219,9 +5781,7 @@
             },
             "properties": {
                 "name": "Chipotle Mexican Grill",
-                "styleUrl": "#style73",
-                "styleHash": "73b3d8c4"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -6235,9 +5795,7 @@
             },
             "properties": {
                 "name": "Birch Coffee",
-                "styleUrl": "#style117",
-                "styleHash": "68b71953"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -6251,25 +5809,7 @@
             },
             "properties": {
                 "name": "Brooklyn Bowl",
-                "styleUrl": "#style112",
-                "styleHash": "4e6ffef8"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.95739,
-                    40.721893,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "Brooklyn Bowl",
-                "styleUrl": "#style58",
-                "styleHash": "-1e4386e3"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -6283,9 +5823,7 @@
             },
             "properties": {
                 "name": "Rosa Mexicano",
-                "styleUrl": "#style106",
-                "styleHash": "5a233d73"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -6299,9 +5837,7 @@
             },
             "properties": {
                 "name": "Pearl Paint",
-                "styleUrl": "#style123",
-                "styleHash": "5d03dad8"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -6315,9 +5851,7 @@
             },
             "properties": {
                 "name": "Hometown Bar-B-Que",
-                "styleUrl": "#style82",
-                "styleHash": "115e76e6"
-            }
+             }
         },
         {
             "type": "Feature",
@@ -6331,25 +5865,7 @@
             },
             "properties": {
                 "name": "Heights Cafe",
-                "styleUrl": "#style127",
-                "styleHash": "3ed65654"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.994949,
-                    40.695011,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "Connecticut Muffin",
-                "styleUrl": "#style55",
-                "styleHash": "385e9c80"
-            }
+             }
         }
     ]
 }
