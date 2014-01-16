@@ -26,6 +26,34 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -74.026421,
+                    40.753204,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "The Madison Bar & Grill"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.922195,
+                    40.707424,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "The Rookery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     -74.011253,
                     40.671341,
                     0
