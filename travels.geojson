@@ -12,6 +12,20 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -73.965714,
+                    40.805714,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Le Monde"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     -74.169861,
                     40.67564,
                     0
