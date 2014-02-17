@@ -57,5 +57,6 @@
 { "type": "Feature", "properties": { "Name": "William Falk-Wallace", "Description": "Sun Nov  3 23:13:44 EST 2013; Location Accuracy: 65.000000" }, "geometry": { "type": "Point", "coordinates": [ -73.963634, 40.808713, 0.0 ] } },
 { "type": "Feature", "properties": { "Name": "William Falk-Wallace", "Description": "Sun Nov  3 22:46:08 EST 2013; Location Accuracy: 164.999956" }, "geometry": { "type": "Point", "coordinates": [ -73.964153, 40.808869, 0.0 ] } },
 { "type": "Feature", "properties": { "Name": "William Falk-Wallace", "Description": "Mon Oct 14 01:14:47 EDT 2013; Location Accuracy: 65.000000" }, "geometry": { "type": "Point", "coordinates": [ -73.969693, 40.800850, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "William Falk-Wallace", "Description": "Mon Feb 17 12:02:08 EST 2014; Location Accuracy: 65.000000" }, "geometry": { "type": "Point", "coordinates": [ -73.963414, 40.806796, 0.0 ] } }
+{ "type": "Feature", "properties": { "Name": "William Falk-Wallace", "Description": "Mon Feb 17 12:02:08 EST 2014; Location Accuracy: 65.000000" }, "geometry": { "type": "Point", "coordinates": [ -73.963414, 40.806796, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "William Falk-Wallace", "Description": "Mon Feb 17 12:02:26 EST 2014; Location Accuracy: 65.000000" }, "geometry": { "type": "Point", "coordinates": [ -73.963414, 40.806796, 0.0 ] } }
 ]}
