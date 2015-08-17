@@ -1,0 +1,23 @@
+{
+  "name": "wfalkwallace.github.io",
+  "version": "1.0.0",
+  "description": "Personal Site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wfalkwallace/wfalkwallace.github.io.git"
+  },
+  "author": "wfalkwallace",
+  "license": "N/A",
+  "bugs": {
+    "url": "https://github.com/wfalkwallace/wfalkwallace.github.io/issues"
+  },
+  "homepage": "https://github.com/wfalkwallace/wfalkwallace.github.io",
+  "dependencies": {
+    "dogescript": "^2.3.0",
+    "dson-djs": "^0.1.1"
+  }
+}
