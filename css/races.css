@@ -1,0 +1,33 @@
+html,
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  font: 14px 'Roboto', Helvetica;
+}
+
+#container {
+  width: 100%;
+  height: 100%;
+  overflow-y: scroll;
+}
+
+#toolbar {
+  width: 100%;
+  height: 10%;
+  background-color: #4285F4; /*Blue 500*/
+}
+
+#content {
+  width: 100%;
+  margin-bottom: 5%;
+
+}
+
+#footer {
+  width: 100%;
+  height: 5%;
+  background-color: #9E9E9E; /*Grey 500*/
+  position: fixed;
+  bottom: 0;
+}
